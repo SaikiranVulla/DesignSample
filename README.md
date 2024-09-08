@@ -1,7 +1,7 @@
 
 ## Demo
 
-[Uploading InShot_20240908_144148140.gif…]()
+![InShot_20240908_144148140](https://github.com/user-attachments/assets/c64b652c-aa25-4206-9660-663daf765021)
 
 
 # Tyre Motors Dashboard UI
