@@ -1,4 +1,9 @@
 
+## Demo
+
+![Uploading InShot_20240908_144148140.gif…]()
+
+
 # Tyre Motors Dashboard UI
 
 This project is the UI implementation for Tyre Motors, an automotive service provider. The UI features a side navigation menu that allows users to navigate between different sections of the app. The focus of this project is on the UI and the navigation flow between different screens.
@@ -47,6 +52,4 @@ The side menu allows users to navigate to different sections of the app:
 ├── App.js            # Root of the project
 └── README.md         # This readme file
 ```
-## Demo
 
-Insert gif or link to demo
